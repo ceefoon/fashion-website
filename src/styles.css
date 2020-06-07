@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.right-menu li {
+  display: inline-block;
+  margin-top: 30px !important;
+}
+
+.right-menu .fa {
+font-size: 18px;
+margin-right: 10px;
+cursor: pointer;
+}
